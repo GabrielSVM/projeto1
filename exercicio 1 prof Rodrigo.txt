@@ -1,0 +1,10 @@
+Atributos 
+1. Nome
+2. Email
+3. Idade
+4. Serie
+
+Metodos
+1. Estudar
+2. Abrir mochila
+3. Abrir caderno
